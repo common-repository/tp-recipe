@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#tp-recipe-ui-tabs").tabs()});
